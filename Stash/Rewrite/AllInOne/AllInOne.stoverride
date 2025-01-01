@@ -1,8 +1,8 @@
 # 规则名称: AllInOne.stoverride
-# 规则统计: 1671
+# 规则统计: 1672
 
 name: AllInOne
-desc: 最后更新时间 2024-12-29 02:15:42
+desc: 最后更新时间 2025-01-02 02:16:07
 rules:
   - DOMAIN,appcloud.zhihu.com,REJECT
   - DOMAIN,appcloud2.in.zhihu.com,REJECT
@@ -375,6 +375,7 @@ http:
     - ^https?:\/\/creditcardapp\.bankcomm\.cn\/mappweb_interface\/common\/(qryPopAds|qryLaunchAds)\.do - reject
     - ^https?:\/\/creditcardapp\.bankcomm\.com\/mapp\/common\/getPopAds\.do$ - reject
     - ^https?:\/\/creditcardapp\.bankcomm\.com\/mapp\/common\/queryGuidePageAds\.do - reject
+    - ^https?:\/\/creditcardapp\.bankcomm\.com\/mappweb.*(Advert|Ads).do - reject
     - ^https?:\/\/ct\.xiaojukeji\.com\/agent\/v3\/feeds - reject
     - ^https?:\/\/daoyu\.sdo\.com\/api\/userCommon\/getAppStartAd - reject
     - ^https?:\/\/data-collector\.soulapp\.cn\/api\/data\/report$ - reject

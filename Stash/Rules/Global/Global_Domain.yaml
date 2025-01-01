@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30835
+# 规则统计: 30839
 
 payload:
   - 'adobeereg.com'
@@ -10576,7 +10576,6 @@ payload:
   - '+.heroku-charge.com'
   - '+.heroku.co'
   - '+.heroku.me'
-  - '+.herokuapp.com'
   - '+.herokucdn.com'
   - '+.herokucharge.com'
   - '+.herokussl.com'
@@ -27014,6 +27013,7 @@ payload:
   - '+.greenvpn.org'
   - '+.grindr.com'
   - '+.grotty-monday.com'
+  - '+.ground.news'
   - '+.gs-discuss.com'
   - '+.gsearch.media'
   - '+.gstatic.com'
@@ -27112,6 +27112,7 @@ payload:
   - '+.here.com'
   - '+.heritage.org'
   - '+.heroku.com'
+  - '+.herokuapp.com'
   - '+.heungkongdiscuss.com'
   - '+.hexieshe.com'
   - '+.hexieshe.xyz'
@@ -27254,6 +27255,7 @@ payload:
   - '+.hoxx.com'
   - '+.hoyolab.com'
   - '+.hpa.gov.tw'
+  - '+.hpjav.com'
   - '+.hqcdp.org'
   - '+.hqjapanesesex.com'
   - '+.hqmovies.com'
@@ -27341,6 +27343,7 @@ payload:
   - '+.iask.bz'
   - '+.iask.ca'
   - '+.iav19.com'
+  - '+.iavian.net'
   - '+.ibiblio.org'
   - '+.ibit.am'
   - '+.iblist.com'
@@ -28690,6 +28693,7 @@ payload:
   - '+.pcanywhere.net'
   - '+.pcc.gov.tw'
   - '+.pcdvd.com.tw'
+  - '+.pcgamestorrents.com'
   - '+.pchome.com.tw'
   - '+.pcij.org'
   - '+.pcloud.com'

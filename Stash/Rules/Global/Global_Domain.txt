@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30834
+# 规则统计: 30838
 
 adobeereg.com
 angle.com.tw
@@ -10575,7 +10575,6 @@ self.events.data.microsoft.com
 .heroku-charge.com
 .heroku.co
 .heroku.me
-.herokuapp.com
 .herokucdn.com
 .herokucharge.com
 .herokussl.com
@@ -27013,6 +27012,7 @@ self.events.data.microsoft.com
 .greenvpn.org
 .grindr.com
 .grotty-monday.com
+.ground.news
 .gs-discuss.com
 .gsearch.media
 .gstatic.com
@@ -27111,6 +27111,7 @@ self.events.data.microsoft.com
 .here.com
 .heritage.org
 .heroku.com
+.herokuapp.com
 .heungkongdiscuss.com
 .hexieshe.com
 .hexieshe.xyz
@@ -27253,6 +27254,7 @@ self.events.data.microsoft.com
 .hoxx.com
 .hoyolab.com
 .hpa.gov.tw
+.hpjav.com
 .hqcdp.org
 .hqjapanesesex.com
 .hqmovies.com
@@ -27340,6 +27342,7 @@ self.events.data.microsoft.com
 .iask.bz
 .iask.ca
 .iav19.com
+.iavian.net
 .ibiblio.org
 .ibit.am
 .iblist.com
@@ -28689,6 +28692,7 @@ self.events.data.microsoft.com
 .pcanywhere.net
 .pcc.gov.tw
 .pcdvd.com.tw
+.pcgamestorrents.com
 .pchome.com.tw
 .pcij.org
 .pcloud.com

@@ -1,5 +1,5 @@
 # 规则名称: AllInOne.plugin
-# 规则统计: 756
+# 规则统计: 757
 
 [Rule]
 DOMAIN,appcloud.zhihu.com,REJECT
@@ -376,6 +376,7 @@ URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v\d+\/brand\/question/\d+/card\?,REJ
 ^https?:\/\/creditcardapp\.bankcomm\.cn\/mappweb_interface\/common\/(qryPopAds|qryLaunchAds)\.do - reject
 ^https?:\/\/creditcardapp\.bankcomm\.com\/mapp\/common\/getPopAds\.do$ - reject-200
 ^https?:\/\/creditcardapp\.bankcomm\.com\/mapp\/common\/queryGuidePageAds\.do - reject-200
+^https?:\/\/creditcardapp\.bankcomm\.com\/mappweb.*(Advert|Ads).do - reject-200
 ^https?:\/\/ct\.xiaojukeji\.com\/agent\/v3\/feeds - reject
 ^https?:\/\/daoyu\.sdo\.com\/api\/userCommon\/getAppStartAd - reject
 ^https?:\/\/data-collector\.soulapp\.cn\/api\/data\/report$ - reject

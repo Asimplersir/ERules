@@ -21,18 +21,18 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-01-01 02:12:13
+最后更新时间：2025-01-02 02:12:34
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 535  | 
 | DOMAIN-KEYWORD | 36  | 
-| DOMAIN-SUFFIX | 30782  | 
+| DOMAIN-SUFFIX | 30786  | 
 | IP-CIDR | 112  | 
 | IP-CIDR6 | 4  | 
 | USER-AGENT(Egern不支持) | 46  | 
-| TOTAL(仅供参考) | 31515  | 
+| TOTAL(仅供参考) | 31519  | 
 
 
 ## Egern 

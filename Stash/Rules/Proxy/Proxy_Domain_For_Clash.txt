@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Domain_For_Clash
-# 规则统计: 5931
+# 规则统计: 5936
 
 api.waqi.info
 aqi.aqicn.org
@@ -2104,6 +2104,7 @@ voice.telephony.goog
 +.greenvpn.org
 +.grindr.com
 +.grotty-monday.com
++.ground.news
 +.gs-discuss.com
 +.gsearch.media
 +.gstatic.com
@@ -2203,6 +2204,7 @@ voice.telephony.goog
 +.here.com
 +.heritage.org
 +.heroku.com
++.herokuapp.com
 +.heungkongdiscuss.com
 +.hexieshe.com
 +.hexieshe.xyz
@@ -2345,6 +2347,7 @@ voice.telephony.goog
 +.hoxx.com
 +.hoyolab.com
 +.hpa.gov.tw
++.hpjav.com
 +.hqcdp.org
 +.hqjapanesesex.com
 +.hqmovies.com
@@ -2432,6 +2435,7 @@ voice.telephony.goog
 +.iask.bz
 +.iask.ca
 +.iav19.com
++.iavian.net
 +.ibiblio.org
 +.ibit.am
 +.iblist.com
@@ -3781,6 +3785,7 @@ voice.telephony.goog
 +.pcanywhere.net
 +.pcc.gov.tw
 +.pcdvd.com.tw
++.pcgamestorrents.com
 +.pchome.com.tw
 +.pcij.org
 +.pcloud.com

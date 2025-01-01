@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Domain
-# 规则统计: 5932
+# 规则统计: 5937
 
 payload:
   - 'api.waqi.info'
@@ -2105,6 +2105,7 @@ payload:
   - '+.greenvpn.org'
   - '+.grindr.com'
   - '+.grotty-monday.com'
+  - '+.ground.news'
   - '+.gs-discuss.com'
   - '+.gsearch.media'
   - '+.gstatic.com'
@@ -2204,6 +2205,7 @@ payload:
   - '+.here.com'
   - '+.heritage.org'
   - '+.heroku.com'
+  - '+.herokuapp.com'
   - '+.heungkongdiscuss.com'
   - '+.hexieshe.com'
   - '+.hexieshe.xyz'
@@ -2346,6 +2348,7 @@ payload:
   - '+.hoxx.com'
   - '+.hoyolab.com'
   - '+.hpa.gov.tw'
+  - '+.hpjav.com'
   - '+.hqcdp.org'
   - '+.hqjapanesesex.com'
   - '+.hqmovies.com'
@@ -2433,6 +2436,7 @@ payload:
   - '+.iask.bz'
   - '+.iask.ca'
   - '+.iav19.com'
+  - '+.iavian.net'
   - '+.ibiblio.org'
   - '+.ibit.am'
   - '+.iblist.com'
@@ -3782,6 +3786,7 @@ payload:
   - '+.pcanywhere.net'
   - '+.pcc.gov.tw'
   - '+.pcdvd.com.tw'
+  - '+.pcgamestorrents.com'
   - '+.pchome.com.tw'
   - '+.pcij.org'
   - '+.pcloud.com'
