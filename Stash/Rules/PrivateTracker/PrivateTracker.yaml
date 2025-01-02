@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 279
+# 规则统计: 282
 
 payload:
   - DOMAIN,0123456789nonexistent.com
@@ -41,18 +41,21 @@ payload:
   - DOMAIN,open.acgtracker.com
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
-  - DOMAIN,open.free-tracker.ga
   - DOMAIN,open.stealth.si
   - DOMAIN,open.tracker.cl
   - DOMAIN,open.tracker.ink
   - DOMAIN,open.trackerlist.xyz
+  - DOMAIN,opentor.org
   - DOMAIN,opentracker.io
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,public.tracker.vraphim.com
+  - DOMAIN,r.l5.ca
+  - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta.me
   - DOMAIN,retracker.spark-rostov.ru
   - DOMAIN,retracker.x2k.ru
+  - DOMAIN,rfc5746.mywaifu.best
   - DOMAIN,seeders-paradise.org
   - DOMAIN,seedpeer.net
   - DOMAIN,serpb.vpsburti.com
@@ -88,6 +91,7 @@ payload:
   - DOMAIN,tracker.bz
   - DOMAIN,tracker.cloudit.top
   - DOMAIN,tracker.corpscorp.online
+  - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker.darkness.services
   - DOMAIN,tracker.deadorbit.nl
   - DOMAIN,tracker.dler.com
@@ -99,10 +103,7 @@ payload:
   - DOMAIN,tracker.filemail.com
   - DOMAIN,tracker.fnix.net
   - DOMAIN,tracker.gcrenwp.top
-  - DOMAIN,tracker.gigantino.net
   - DOMAIN,tracker.gmi.gd
-  - DOMAIN,tracker.guguan.us.kg
-  - DOMAIN,tracker.ipfsscan.io
   - DOMAIN,tracker.ipv6tracker.org
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,tracker.kmzs123.tk
@@ -115,6 +116,7 @@ payload:
   - DOMAIN,tracker.mywaifu.best
   - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.opentrackr.org
+  - DOMAIN,tracker.openwebtorrent.com
   - DOMAIN,tracker.pmman.tech
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.renfei.net
@@ -122,12 +124,10 @@ payload:
   - DOMAIN,tracker.skynetcloud.site
   - DOMAIN,tracker.skyts.net
   - DOMAIN,tracker.srv00.com
-  - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,tracker.tryhackx.org
-  - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,tracker.vraphim.com
   - DOMAIN,tracker.waaa.moe
@@ -280,3 +280,6 @@ payload:
   - DOMAIN-KEYWORD,chdbits
   - DOMAIN-KEYWORD,m-team
   - DOMAIN-KEYWORD,torrent
+  - IP-CIDR,207.241.226.111/32
+  - IP-CIDR,207.241.231.226/32
+  - IP-CIDR,52.58.128.163/32
