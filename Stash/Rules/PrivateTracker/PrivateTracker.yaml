@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 282
+# 规则统计: 281
 
 payload:
   - DOMAIN,0123456789nonexistent.com
@@ -19,7 +19,6 @@ payload:
   - DOMAIN,concen.org
   - DOMAIN,cq.kmzs123.cn
   - DOMAIN,d40969.acod.regrucolo.ru
-  - DOMAIN,discord.heihachi.pw
   - DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
   - DOMAIN,evan.im
   - DOMAIN,exodus.desync.com
@@ -41,6 +40,7 @@ payload:
   - DOMAIN,open.acgtracker.com
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
+  - DOMAIN,open.free-tracker.ga
   - DOMAIN,open.stealth.si
   - DOMAIN,open.tracker.cl
   - DOMAIN,open.tracker.ink
@@ -98,11 +98,11 @@ payload:
   - DOMAIN,tracker.dler.org
   - DOMAIN,tracker.dmcomic.org
   - DOMAIN,tracker.draatman.uk
-  - DOMAIN,tracker.dump.cl
   - DOMAIN,tracker.edkj.club
   - DOMAIN,tracker.filemail.com
   - DOMAIN,tracker.fnix.net
   - DOMAIN,tracker.gcrenwp.top
+  - DOMAIN,tracker.gigantino.net
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.ipv6tracker.org
   - DOMAIN,tracker.itscraftsoftware.my.id
@@ -114,7 +114,6 @@ payload:
   - DOMAIN,tracker.moeking.me
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.mywaifu.best
-  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,tracker.openwebtorrent.com
   - DOMAIN,tracker.pmman.tech

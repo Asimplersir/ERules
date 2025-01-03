@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 281
+# 规则统计: 280
 
 HOST,0123456789nonexistent.com,PrivateTracker
 HOST,0d.kebhana.mx,PrivateTracker
@@ -18,7 +18,6 @@ HOST,ch3oh.ru,PrivateTracker
 HOST,concen.org,PrivateTracker
 HOST,cq.kmzs123.cn,PrivateTracker
 HOST,d40969.acod.regrucolo.ru,PrivateTracker
-HOST,discord.heihachi.pw,PrivateTracker
 HOST,ec2-18-191-163-220.us-east-2.compute.amazonaws.com,PrivateTracker
 HOST,evan.im,PrivateTracker
 HOST,exodus.desync.com,PrivateTracker
@@ -40,6 +39,7 @@ HOST,odd-hd.fr,PrivateTracker
 HOST,open.acgtracker.com,PrivateTracker
 HOST,open.demonii.com,PrivateTracker
 HOST,open.dstud.io,PrivateTracker
+HOST,open.free-tracker.ga,PrivateTracker
 HOST,open.stealth.si,PrivateTracker
 HOST,open.tracker.cl,PrivateTracker
 HOST,open.tracker.ink,PrivateTracker
@@ -97,11 +97,11 @@ HOST,tracker.dler.com,PrivateTracker
 HOST,tracker.dler.org,PrivateTracker
 HOST,tracker.dmcomic.org,PrivateTracker
 HOST,tracker.draatman.uk,PrivateTracker
-HOST,tracker.dump.cl,PrivateTracker
 HOST,tracker.edkj.club,PrivateTracker
 HOST,tracker.filemail.com,PrivateTracker
 HOST,tracker.fnix.net,PrivateTracker
 HOST,tracker.gcrenwp.top,PrivateTracker
+HOST,tracker.gigantino.net,PrivateTracker
 HOST,tracker.gmi.gd,PrivateTracker
 HOST,tracker.ipv6tracker.org,PrivateTracker
 HOST,tracker.itscraftsoftware.my.id,PrivateTracker
@@ -113,7 +113,6 @@ HOST,tracker.lintk.me,PrivateTracker
 HOST,tracker.moeking.me,PrivateTracker
 HOST,tracker.moxing.party,PrivateTracker
 HOST,tracker.mywaifu.best,PrivateTracker
-HOST,tracker.ololosh.space,PrivateTracker
 HOST,tracker.opentrackr.org,PrivateTracker
 HOST,tracker.openwebtorrent.com,PrivateTracker
 HOST,tracker.pmman.tech,PrivateTracker
