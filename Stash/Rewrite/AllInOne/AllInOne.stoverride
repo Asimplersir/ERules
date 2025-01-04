@@ -1,8 +1,8 @@
 # 规则名称: AllInOne.stoverride
-# 规则统计: 1672
+# 规则统计: 1674
 
 name: AllInOne
-desc: 最后更新时间 2025-01-02 02:16:07
+desc: 最后更新时间 2025-01-05 02:15:51
 rules:
   - DOMAIN,appcloud.zhihu.com,REJECT
   - DOMAIN,appcloud2.in.zhihu.com,REJECT
@@ -557,6 +557,7 @@ http:
     - ^https?:\/\/nnapp\.cloudbae\.cn(:\d+)?\/mc\/api\/advert - reject
     - ^https?:\/\/notify\.baicizhan\.com\/rpc\/notify\/get_latest_notify - reject
     - ^https?:\/\/nuc\.api\.mgtv.com\/Logout - reject
+    - ^https?:\/\/oneapp-api\.faw-vw\.com\/content\/.*Code=VWAPP_ICE_OPEN_SCREEN_ADS - reject
     - ^https?:\/\/open3\.vistastory\.com\/v3\/api.*get_popup - reject
     - ^https?:\/\/open3\.vistastory\.com\/v3\/api\/index\/loading_ad - reject
     - ^https?:\/\/open\.78dm\.net\/v\d\/site\/ad\/ - reject
@@ -1424,6 +1425,7 @@ http:
     - "nnapp.cloudbae.cn:0"
     - "notify.baicizhan.com"
     - "nuc.api.mgtv.com"
+    - "oneapp-api.faw-vw.com"
     - "open-cms-api.quark.cn"
     - "open-cms-api.uc.cn"
     - "open.78dm.net"

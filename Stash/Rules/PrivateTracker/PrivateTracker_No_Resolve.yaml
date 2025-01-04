@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker_No_Resolve
-# 规则统计: 281
+# 规则统计: 282
 
 payload:
   - DOMAIN,0123456789nonexistent.com
@@ -19,6 +19,7 @@ payload:
   - DOMAIN,concen.org
   - DOMAIN,cq.kmzs123.cn
   - DOMAIN,d40969.acod.regrucolo.ru
+  - DOMAIN,discord.heihachi.pw
   - DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
   - DOMAIN,evan.im
   - DOMAIN,exodus.desync.com
@@ -28,7 +29,7 @@ payload:
   - DOMAIN,home.yxgz.club
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,isk.richardsw.club
+  - DOMAIN,ipv6.rer.lol
   - DOMAIN,ismaarino.com
   - DOMAIN,leet-tracker.moe
   - DOMAIN,martin-gebhardt.eu
@@ -42,7 +43,6 @@ payload:
   - DOMAIN,open.dstud.io
   - DOMAIN,open.free-tracker.ga
   - DOMAIN,open.stealth.si
-  - DOMAIN,open.tracker.cl
   - DOMAIN,open.tracker.ink
   - DOMAIN,open.trackerlist.xyz
   - DOMAIN,opentor.org
@@ -55,11 +55,11 @@ payload:
   - DOMAIN,retracker.lanta.me
   - DOMAIN,retracker.spark-rostov.ru
   - DOMAIN,retracker.x2k.ru
-  - DOMAIN,rfc5746.mywaifu.best
   - DOMAIN,seeders-paradise.org
   - DOMAIN,seedpeer.net
   - DOMAIN,serpb.vpsburti.com
   - DOMAIN,servandroidkino.ru
+  - DOMAIN,share.hkg-fansub.info
   - DOMAIN,shubt.net
   - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,t.213891.xyz
@@ -69,7 +69,6 @@ payload:
   - DOMAIN,tk.greedland.net
   - DOMAIN,torrent.tracker.durukanbal.com
   - DOMAIN,torrentsmd.com
-  - DOMAIN,tr.abir.ga
   - DOMAIN,tr.burnabyhighstar.com
   - DOMAIN,tr.movian.eu
   - DOMAIN,tr.nyacat.pw
@@ -114,6 +113,7 @@ payload:
   - DOMAIN,tracker.moeking.me
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.mywaifu.best
+  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,tracker.openwebtorrent.com
   - DOMAIN,tracker.pmman.tech
@@ -123,6 +123,7 @@ payload:
   - DOMAIN,tracker.skynetcloud.site
   - DOMAIN,tracker.skyts.net
   - DOMAIN,tracker.srv00.com
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com
