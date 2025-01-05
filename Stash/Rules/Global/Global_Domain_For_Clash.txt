@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain_For_Clash
-# 规则统计: 30838
+# 规则统计: 30839
 
 adobeereg.com
 angle.com.tw
@@ -25940,6 +25940,7 @@ self.events.data.microsoft.com
 +.cn6.eu
 +.cna.com.tw
 +.cnabc.com
++.cnbeta.com.tw
 +.cnd.org
 +.cnet.com
 +.cnineu.com

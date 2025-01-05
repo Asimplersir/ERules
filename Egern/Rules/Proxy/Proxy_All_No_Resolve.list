@@ -1,5 +1,5 @@
 # 规则名称: Proxy_All_No_Resolve
-# 规则统计: 6067
+# 规则统计: 6068
 
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -1031,6 +1031,7 @@ DOMAIN-SUFFIX,cn-proxy.com
 DOMAIN-SUFFIX,cn6.eu
 DOMAIN-SUFFIX,cna.com.tw
 DOMAIN-SUFFIX,cnabc.com
+DOMAIN-SUFFIX,cnbeta.com.tw
 DOMAIN-SUFFIX,cnd.org
 DOMAIN-SUFFIX,cnet.com
 DOMAIN-SUFFIX,cnineu.com

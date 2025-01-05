@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6519
+# 规则统计: 6520
 
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
@@ -1118,6 +1118,7 @@ HOST-SUFFIX,cn-proxy.com,Proxy
 HOST-SUFFIX,cn6.eu,Proxy
 HOST-SUFFIX,cna.com.tw,Proxy
 HOST-SUFFIX,cnabc.com,Proxy
+HOST-SUFFIX,cnbeta.com.tw,Proxy
 HOST-SUFFIX,cnd.org,Proxy
 HOST-SUFFIX,cnet.com,Proxy
 HOST-SUFFIX,cnineu.com,Proxy

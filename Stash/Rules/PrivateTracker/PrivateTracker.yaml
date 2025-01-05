@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 282
+# 规则统计: 284
 
 payload:
   - DOMAIN,0123456789nonexistent.com
@@ -10,7 +10,6 @@ payload:
   - DOMAIN,betelgeuse.freeddns.org
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,bt.ktrackers.com
-  - DOMAIN,bt.okmp3.ru
   - DOMAIN,bt.poletracker.org
   - DOMAIN,bt.rer.lol
   - DOMAIN,bt1.xxxxbt.cc
@@ -25,11 +24,11 @@ payload:
   - DOMAIN,exodus.desync.com
   - DOMAIN,explodie.org
   - DOMAIN,finbytes.org
+  - DOMAIN,freedomalternative.com
   - DOMAIN,highteahop.top
   - DOMAIN,home.yxgz.club
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,ipv6.rer.lol
   - DOMAIN,ismaarino.com
   - DOMAIN,leet-tracker.moe
   - DOMAIN,martin-gebhardt.eu
@@ -41,7 +40,6 @@ payload:
   - DOMAIN,open.acgtracker.com
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
-  - DOMAIN,open.free-tracker.ga
   - DOMAIN,open.stealth.si
   - DOMAIN,open.tracker.ink
   - DOMAIN,open.trackerlist.xyz
@@ -55,6 +53,7 @@ payload:
   - DOMAIN,retracker.lanta.me
   - DOMAIN,retracker.spark-rostov.ru
   - DOMAIN,retracker.x2k.ru
+  - DOMAIN,rfc5746.mywaifu.best
   - DOMAIN,seeders-paradise.org
   - DOMAIN,seedpeer.net
   - DOMAIN,serpb.vpsburti.com
@@ -69,6 +68,7 @@ payload:
   - DOMAIN,tk.greedland.net
   - DOMAIN,torrent.tracker.durukanbal.com
   - DOMAIN,torrentsmd.com
+  - DOMAIN,tr.abir.ga
   - DOMAIN,tr.burnabyhighstar.com
   - DOMAIN,tr.movian.eu
   - DOMAIN,tr.nyacat.pw
@@ -77,6 +77,7 @@ payload:
   - DOMAIN,tr2.trkb.ru
   - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,trackarr.org
+  - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker-us.silksa.co.za
   - DOMAIN,tracker-zhuqiy.dgj055.icu
   - DOMAIN,tracker.0x7c0.com
@@ -97,6 +98,7 @@ payload:
   - DOMAIN,tracker.dler.org
   - DOMAIN,tracker.dmcomic.org
   - DOMAIN,tracker.draatman.uk
+  - DOMAIN,tracker.dump.cl
   - DOMAIN,tracker.edkj.club
   - DOMAIN,tracker.filemail.com
   - DOMAIN,tracker.fnix.net

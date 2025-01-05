@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30839
+# 规则统计: 30840
 
 payload:
   - 'adobeereg.com'
@@ -25941,6 +25941,7 @@ payload:
   - '+.cn6.eu'
   - '+.cna.com.tw'
   - '+.cnabc.com'
+  - '+.cnbeta.com.tw'
   - '+.cnd.org'
   - '+.cnet.com'
   - '+.cnineu.com'

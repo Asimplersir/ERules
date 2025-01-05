@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Domain
-# 规则统计: 5937
+# 规则统计: 5938
 
 payload:
   - 'api.waqi.info'
@@ -1032,6 +1032,7 @@ payload:
   - '+.cn6.eu'
   - '+.cna.com.tw'
   - '+.cnabc.com'
+  - '+.cnbeta.com.tw'
   - '+.cnd.org'
   - '+.cnet.com'
   - '+.cnineu.com'

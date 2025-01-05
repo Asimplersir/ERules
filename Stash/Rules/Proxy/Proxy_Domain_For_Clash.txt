@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Domain_For_Clash
-# 规则统计: 5936
+# 规则统计: 5937
 
 api.waqi.info
 aqi.aqicn.org
@@ -1031,6 +1031,7 @@ voice.telephony.goog
 +.cn6.eu
 +.cna.com.tw
 +.cnabc.com
++.cnbeta.com.tw
 +.cnd.org
 +.cnet.com
 +.cnineu.com
