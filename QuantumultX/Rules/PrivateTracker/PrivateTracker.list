@@ -1,12 +1,11 @@
 # 规则名称: PrivateTracker
-# 规则统计: 283
+# 规则统计: 279
 
 HOST,0123456789nonexistent.com,PrivateTracker
 HOST,0d.kebhana.mx,PrivateTracker
 HOST,1337.abcvg.info,PrivateTracker
 HOST,api.ipv4online.uk,PrivateTracker
 HOST,bandito.byterunner.io,PrivateTracker
-HOST,betelgeuse.freeddns.org,PrivateTracker
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,PrivateTracker
 HOST,bt.ktrackers.com,PrivateTracker
 HOST,bt.poletracker.org,PrivateTracker
@@ -23,11 +22,12 @@ HOST,evan.im,PrivateTracker
 HOST,exodus.desync.com,PrivateTracker
 HOST,explodie.org,PrivateTracker
 HOST,finbytes.org,PrivateTracker
-HOST,freedomalternative.com,PrivateTracker
 HOST,highteahop.top,PrivateTracker
 HOST,home.yxgz.club,PrivateTracker
 HOST,ipv4.rer.lol,PrivateTracker
 HOST,ipv4announce.sktorrent.eu,PrivateTracker
+HOST,ipv6.rer.lol,PrivateTracker
+HOST,isk.richardsw.club,PrivateTracker
 HOST,ismaarino.com,PrivateTracker
 HOST,leet-tracker.moe,PrivateTracker
 HOST,martin-gebhardt.eu,PrivateTracker
@@ -52,7 +52,6 @@ HOST,retracker.hotplug.ru,PrivateTracker
 HOST,retracker.lanta.me,PrivateTracker
 HOST,retracker.spark-rostov.ru,PrivateTracker
 HOST,retracker.x2k.ru,PrivateTracker
-HOST,rfc5746.mywaifu.best,PrivateTracker
 HOST,seeders-paradise.org,PrivateTracker
 HOST,seedpeer.net,PrivateTracker
 HOST,serpb.vpsburti.com,PrivateTracker
@@ -76,7 +75,6 @@ HOST,tr1.aag.moe,PrivateTracker
 HOST,tr2.trkb.ru,PrivateTracker
 HOST,tr4ck3r.duckdns.org,PrivateTracker
 HOST,trackarr.org,PrivateTracker
-HOST,tracker-udp.gbitt.info,PrivateTracker
 HOST,tracker-us.silksa.co.za,PrivateTracker
 HOST,tracker-zhuqiy.dgj055.icu,PrivateTracker
 HOST,tracker.0x7c0.com,PrivateTracker
@@ -97,7 +95,6 @@ HOST,tracker.dler.com,PrivateTracker
 HOST,tracker.dler.org,PrivateTracker
 HOST,tracker.dmcomic.org,PrivateTracker
 HOST,tracker.draatman.uk,PrivateTracker
-HOST,tracker.dump.cl,PrivateTracker
 HOST,tracker.edkj.club,PrivateTracker
 HOST,tracker.filemail.com,PrivateTracker
 HOST,tracker.fnix.net,PrivateTracker
@@ -106,7 +103,6 @@ HOST,tracker.gigantino.net,PrivateTracker
 HOST,tracker.gmi.gd,PrivateTracker
 HOST,tracker.ipv6tracker.org,PrivateTracker
 HOST,tracker.itscraftsoftware.my.id,PrivateTracker
-HOST,tracker.kmzs123.tk,PrivateTracker
 HOST,tracker.kuroy.me,PrivateTracker
 HOST,tracker.leechshield.link,PrivateTracker
 HOST,tracker.lilithraws.org,PrivateTracker
