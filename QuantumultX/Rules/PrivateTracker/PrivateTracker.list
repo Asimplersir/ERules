@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 281
+# 规则统计: 282
 
 HOST,0123456789nonexistent.com,PrivateTracker
 HOST,0d.kebhana.mx,PrivateTracker
@@ -17,19 +17,17 @@ HOST,ch3oh.ru,PrivateTracker
 HOST,concen.org,PrivateTracker
 HOST,cq.kmzs123.cn,PrivateTracker
 HOST,d40969.acod.regrucolo.ru,PrivateTracker
+HOST,discord.heihachi.pw,PrivateTracker
 HOST,ec2-18-191-163-220.us-east-2.compute.amazonaws.com,PrivateTracker
 HOST,evan.im,PrivateTracker
 HOST,exodus.desync.com,PrivateTracker
-HOST,explodie.org,PrivateTracker
 HOST,finbytes.org,PrivateTracker
 HOST,highteahop.top,PrivateTracker
 HOST,home.yxgz.club,PrivateTracker
 HOST,ipv4.rer.lol,PrivateTracker
 HOST,ipv4announce.sktorrent.eu,PrivateTracker
 HOST,ipv6.rer.lol,PrivateTracker
-HOST,isk.richardsw.club,PrivateTracker
 HOST,ismaarino.com,PrivateTracker
-HOST,leet-tracker.moe,PrivateTracker
 HOST,martin-gebhardt.eu,PrivateTracker
 HOST,mikrotik2.draatman.net,PrivateTracker
 HOST,ns-1.x-fins.com,PrivateTracker
@@ -41,6 +39,7 @@ HOST,open.demonii.com,PrivateTracker
 HOST,open.dstud.io,PrivateTracker
 HOST,open.free-tracker.ga,PrivateTracker
 HOST,open.stealth.si,PrivateTracker
+HOST,open.tracker.cl,PrivateTracker
 HOST,open.tracker.ink,PrivateTracker
 HOST,open.trackerlist.xyz,PrivateTracker
 HOST,opentor.org,PrivateTracker
@@ -53,6 +52,7 @@ HOST,retracker.hotplug.ru,PrivateTracker
 HOST,retracker.lanta.me,PrivateTracker
 HOST,retracker.spark-rostov.ru,PrivateTracker
 HOST,retracker.x2k.ru,PrivateTracker
+HOST,rfc5746.mywaifu.best,PrivateTracker
 HOST,seeders-paradise.org,PrivateTracker
 HOST,seedpeer.net,PrivateTracker
 HOST,serpb.vpsburti.com,PrivateTracker
@@ -67,7 +67,6 @@ HOST,taciturn-shadow.spb.ru,PrivateTracker
 HOST,tk.greedland.net,PrivateTracker
 HOST,torrent.tracker.durukanbal.com,PrivateTracker
 HOST,torrentsmd.com,PrivateTracker
-HOST,tr.abir.ga,PrivateTracker
 HOST,tr.burnabyhighstar.com,PrivateTracker
 HOST,tr.movian.eu,PrivateTracker
 HOST,tr.nyacat.pw,PrivateTracker
@@ -76,9 +75,11 @@ HOST,tr1.aag.moe,PrivateTracker
 HOST,tr2.trkb.ru,PrivateTracker
 HOST,tr4ck3r.duckdns.org,PrivateTracker
 HOST,trackarr.org,PrivateTracker
+HOST,tracker-udp.gbitt.info,PrivateTracker
 HOST,tracker-us.silksa.co.za,PrivateTracker
 HOST,tracker-zhuqiy.dgj055.icu,PrivateTracker
 HOST,tracker.0x7c0.com,PrivateTracker
+HOST,tracker.aburaya.live,PrivateTracker
 HOST,tracker.beeimg.com,PrivateTracker
 HOST,tracker.birkenwald.de,PrivateTracker
 HOST,tracker.bittor.pw,PrivateTracker
