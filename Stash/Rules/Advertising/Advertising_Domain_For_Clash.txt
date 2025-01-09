@@ -1,5 +1,5 @@
 # 规则名称: Advertising_Domain_For_Clash
-# 规则统计: 156313
+# 规则统计: 156343
 
 03.lzzncm.com
 04.lzzncm.com
@@ -19215,6 +19215,7 @@ play.kakao.com
 +.921b6384ac.com
 +.92245a1d7e.com
 +.92790388.xyz
++.92888e5ff3.com
 +.92by17snes4.cc
 +.92caijing.com
 +.92e6136b5d.com
@@ -19549,6 +19550,7 @@ play.kakao.com
 +.a00s.net
 +.a013.com
 +.a06bbd98194c252.com
++.a08387be3d.com
 +.a0905c77de.com
 +.a0c00.com
 +.a0c11.com
@@ -25058,6 +25060,7 @@ play.kakao.com
 +.alsindustratebil.com
 +.alskd34.com
 +.alsmdb.com
++.alsolrocktor.com
 +.alspearowa.com
 +.alsthonronghe.xyz
 +.alstrome9riya10.com
@@ -25914,6 +25917,7 @@ play.kakao.com
 +.aorpum.com
 +.aortismbutyric.com
 +.aos01070ss.xyz
++.aos01080ss.xyz
 +.aosmicdossety.website
 +.aosmicvirago.com
 +.aourgk.xyz
@@ -28038,6 +28042,7 @@ play.kakao.com
 +.b21be0a0c8.com
 +.b225.org
 +.b2261a9931.com
++.b23010ff32.com
 +.b25c1fa74d.com
 +.b2bcontext.ru
 +.b2be2dbdc8.com
@@ -31264,6 +31269,7 @@ play.kakao.com
 +.bothererune.com
 +.botherherself.website
 +.botherlightensideway.com
++.bothoorgoamsab.net
 +.bothsemicolon.com
 +.bothwest.pro
 +.botize.com
@@ -33881,6 +33887,7 @@ play.kakao.com
 +.ceemoptu.xyz
 +.ceeqgwt.com
 +.ceethipt.com
++.ceetuweevozegu.xyz
 +.ceezepegleze.xyz
 +.cef7cb85aa.com
 +.cegadazwdsp.com
@@ -37964,6 +37971,7 @@ play.kakao.com
 +.csnem.ru
 +.csoxbkscuflef.com
 +.csp-oz66pp.ru
++.csp-report.marketing.aws.dev
 +.csp-reporting.cloudflare.com
 +.csqgebok.com
 +.csqtsjm.com
@@ -42975,6 +42983,7 @@ play.kakao.com
 +.drownbossy.com
 +.drownedhurling.com
 +.drozhdeni.ru
++.drpggagxsz.com
 +.drpsjp.xyz
 +.drrcckbju3nd0.cloudfront.net
 +.drrykr.com
@@ -53034,6 +53043,7 @@ play.kakao.com
 +.gytlingpaint.top
 +.gyunce.xyz
 +.gyutmrp.com
++.gyvwigvwqkm.com
 +.gyxkmpf.com
 +.gyzlozas.com
 +.gz51la.com
@@ -61485,6 +61495,7 @@ play.kakao.com
 +.koaneeto.xyz
 +.koapsout.com
 +.koapsuha.net
++.koaptausoaco.net
 +.koaptouw.com
 +.koataigalupo.net
 +.koatkm.xyz
@@ -64174,6 +64185,7 @@ play.kakao.com
 +.loathepimpery.com
 +.loatheskeletonethic.com
 +.loathynay.com
++.loavolougloatom.net
 +.loazezoo.net
 +.loazuptaice.net
 +.lobatehellion.top
@@ -66862,6 +66874,7 @@ play.kakao.com
 +.medicinetizer.ru
 +.mediego.com
 +.medigaly.com
++.medinaossal.com
 +.mediocrecount.com
 +.medipartner.jp
 +.meditateenhancements.com
@@ -75262,6 +75275,7 @@ play.kakao.com
 +.paime.com
 +.pain-relief.1.p2l.info
 +.paincake.yoll.net
++.painchnieves.com
 +.painfullyconfession.com
 +.painfullypenny.com
 +.painfulpropaganda.com
@@ -76238,6 +76252,7 @@ play.kakao.com
 +.percussiverefrigeratorunderstandable.com
 +.percycle.com
 +.percynaturalist.com
++.perdurepeeve.com
 +.perechsupors.com
 +.perehodny.ru
 +.pereliaastroid.com
@@ -77060,6 +77075,7 @@ play.kakao.com
 +.pinionscdf.com
 +.pinionsmamry.top
 +.pinitolshouldn.com
++.pinjzp.icu
 +.pinkberrytube.com
 +.pinklabel.com
 +.pinkleo.pro
@@ -77514,6 +77530,7 @@ play.kakao.com
 +.playzipgames.co
 +.plbs9k.icu
 +.plchldr.co
++.plcubmiinxa.com
 +.pleadsbox.com
 +.pleasantlyknives.com
 +.pleasantlyrevenge.com
@@ -83559,6 +83576,7 @@ play.kakao.com
 +.revulsionwash.com
 +.revupads.com
 +.rewaawoyamvky.top
++.rewakenreaware.top
 +.rewarding-design.pro
 +.rewardingindependentvisit.shop
 +.rewardjav128.fun
@@ -83569,6 +83587,7 @@ play.kakao.com
 +.rewardtv.com
 +.rewashwudu.com
 +.rewdinghes.com
++.rewearoutwale.shop
 +.rewindgills.com
 +.rewindgranulatedspatter.com
 +.rewinedropshop.info
@@ -84985,6 +85004,7 @@ play.kakao.com
 +.rwjqdbimphvg.com
 +.rwkdqtenbr.com
 +.rwnmcum.cn
++.rwoscaonf.com
 +.rwpgtlurfllti.com
 +.rwpt.top
 +.rwpypf.com
@@ -90152,6 +90172,7 @@ play.kakao.com
 +.spoilmagicstandard.com
 +.spoilphysiqueteenagers.com
 +.spokanchap.com
++.spokeoaffiliates.com
 +.spokesperson254.fun
 +.spoki-noki.net
 +.spolecznosci.net
@@ -91645,6 +91666,7 @@ play.kakao.com
 +.stteeruptowind.com
 +.stthykerewasn.com
 +.stub.mainspotvideosfree.best
++.stubberjacens.com
 +.stubbleupbriningbackground.com
 +.stubborndreadcounterfeit.com
 +.stubbornembroiderytrifling.com
@@ -93860,6 +93882,7 @@ play.kakao.com
 +.tempbugs.com
 +.tempeorek.org
 +.temperacaimans.com
++.temperansar.top
 +.temperaturecoalitionbook.com
 +.temperaturemarvelcounter.com
 +.tempergleefulvariability.com
@@ -97745,6 +97768,7 @@ play.kakao.com
 +.tu3921276844.cc
 +.tu4038097360.cc
 +.tu5551976196.cc
++.tu6.icu
 +.tu6767109513.cc
 +.tuanbansub.ml
 +.tuanlevang.vn
@@ -99300,6 +99324,7 @@ play.kakao.com
 +.unsnakybrulot.com
 +.unsnareparroty.com
 +.unsoggynek.life
++.unsoothippi.top
 +.unspeakablefreezing.com
 +.unspeakablepurebeings.com
 +.unspinaraka.com
@@ -103981,6 +104006,7 @@ play.kakao.com
 +.wezmklgd.com
 +.wezvveogk.com
 +.wf66l5ylwq.com
++.wf7.icu
 +.wfcs.lol
 +.wfdlrirntafl.com
 +.wffbdim.com
@@ -106164,6 +106190,7 @@ play.kakao.com
 +.wyoutube.fr
 +.wyoxmklaa.xyz
 +.wyq3rum.icu
++.wyrockraptest.shop
 +.wyrtqdvhuiyhml.com
 +.wysasys.com
 +.wyscmkd.com
@@ -107160,6 +107187,8 @@ play.kakao.com
 +.xwzbpkku-i.site
 +.xx-umomfzqik.today
 +.xx3691b.com
++.xxaks01080sspao.xyz
++.xxaks01081sspao.xyz
 +.xxaparfuel.xyz
 +.xxccdshj.com
 +.xxcgdq.com
@@ -109330,6 +109359,7 @@ play.kakao.com
 +.ztfzizpkjrmhbc.com
 +.ztfzskpc.com
 +.zthxobgk.icu
++.ztlkngyj.icu
 +.ztnibpbkl.com
 +.ztqdkzn.cn
 +.ztrack.online

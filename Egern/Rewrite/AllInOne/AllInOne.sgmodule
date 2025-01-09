@@ -1,5 +1,5 @@
 # 规则名称: AllInOne.sgmodule
-# 规则统计: 868
+# 规则统计: 867
 
 [General]
 force-http-engine-hosts = %APPEND% *.ott.cibntv.net,intl.iqiyi.com,maicai.api.ddxq.mobi,mobileapi-v6.elong.com,weibointl.api.weibo.cn,wmapi.meituan.com
@@ -283,7 +283,6 @@ URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v\d+\/brand\/question/\d+/card\?,REJ
 "^https?:\/\/api\.00bang\.cn\/llb\/baseinfo\/advertise\/getAdvertiseByPageCode" - reject
 "^https?:\/\/api\.21ec74\.com\/v2\.5\/ad" - reject
 "^https?:\/\/api\.21jingji\.com\/ad\/" - reject
-"^https?:\/\/api\.369cx\.cn\/v\d\/Splash\/GetSplashAd" - reject
 "^https?:\/\/api\.[\w-]+\.abema-tv\.com\/v\d\/ip\/check" - reject
 "^https?:\/\/api\.abema\.io\/v\d\/ip\/check" - reject
 "^https?:\/\/api\.ahmobile\.cn:443\/eip\?eip_serv_id=app\.getAllNew" - reject

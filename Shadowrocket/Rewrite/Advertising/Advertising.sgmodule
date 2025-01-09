@@ -1,5 +1,5 @@
 # 规则名称: Advertising.sgmodule
-# 规则统计: 753
+# 规则统计: 752
 
 [General]
 force-http-engine-hosts = %APPEND% *.ott.cibntv.net,intl.iqiyi.com,maicai.api.ddxq.mobi,mobileapi-v6.elong.com,weibointl.api.weibo.cn,wmapi.meituan.com
@@ -208,7 +208,6 @@ force-http-engine-hosts = %APPEND% *.ott.cibntv.net,intl.iqiyi.com,maicai.api.dd
 ^https?:\/\/api\.00bang\.cn\/llb\/baseinfo\/advertise\/getAdvertiseByPageCode - reject-200
 ^https?:\/\/api\.21ec74\.com\/v2\.5\/ad - reject-200
 ^https?:\/\/api\.21jingji\.com\/ad\/ - reject
-^https?:\/\/api\.369cx\.cn\/v\d\/Splash\/GetSplashAd - reject-200
 ^https?:\/\/api\.abema\.io\/v\d\/ip\/check - reject-200
 ^https?:\/\/api\.ahmobile\.cn:443\/eip\?eip_serv_id=app\.getAllNew - reject-200
 ^https?:\/\/api\.applovefrom\.com\/api\/v\d\/splash\/ - reject
