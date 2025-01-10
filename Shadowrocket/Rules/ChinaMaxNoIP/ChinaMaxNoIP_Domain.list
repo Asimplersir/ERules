@@ -1,5 +1,5 @@
 # 规则名称: ChinaMaxNoIP_Domain
-# 规则统计: 97386
+# 规则统计: 97384
 
 .0.zone
 .00.net
@@ -64297,7 +64297,6 @@
 .pxcn168.com
 .pxdier.net
 .pxemba.com
-.pxhuiben.com
 .pxsfybjy.com
 .pxsrmyy.com
 .pxtbhb.com
@@ -80562,7 +80561,6 @@
 .volcenginedns.com
 .volcenginedns.net
 .volcenginepaas.com
-.volces.com
 .volcfake.com
 .volcfcdn.com
 .volcfcdnbyte.com
