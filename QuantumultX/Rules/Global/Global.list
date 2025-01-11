@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 31520
+# 规则统计: 31519
 
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -24880,7 +24880,6 @@ HOST-SUFFIX,zen8ok.xyz,Global
 HOST-SUFFIX,zencdn.net,Global
 HOST-SUFFIX,zencoder.com,Global
 HOST-SUFFIX,zendesk.com,Global
-HOST-SUFFIX,zenlesszonezero.com,Global
 HOST-SUFFIX,zenodo.org,Global
 HOST-SUFFIX,zeplerinstitute.ac.uk,Global
 HOST-SUFFIX,zeplin.dev,Global

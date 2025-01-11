@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30840
+# 规则统计: 30839
 
 payload:
   - 'adobeereg.com'
@@ -24839,7 +24839,6 @@ payload:
   - '+.zencdn.net'
   - '+.zencoder.com'
   - '+.zendesk.com'
-  - '+.zenlesszonezero.com'
   - '+.zenodo.org'
   - '+.zeplerinstitute.ac.uk'
   - '+.zeplin.dev'

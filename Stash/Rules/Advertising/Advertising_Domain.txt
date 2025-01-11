@@ -1,5 +1,5 @@
 # 规则名称: Advertising_Domain
-# 规则统计: 156382
+# 规则统计: 156407
 
 03.lzzncm.com
 04.lzzncm.com
@@ -2460,7 +2460,6 @@ ten.sngapm.qq.com
 teredo.ipv6.microsoft.com
 test.p.12cpm.com
 tg.mhtg123.com
-tg.pxhuiben.com
 tg.yxdou.com
 thetimmedia.site
 thinknear-hosted.thinknearhub.com
@@ -17937,6 +17936,7 @@ play.kakao.com
 .3twentyfour.xyz
 .3u4zyeugi.com
 .3under.ru
+.3uo.fun
 .3uvz5.xyz
 .3vp.icu
 .3wr110.net
@@ -27888,6 +27888,7 @@ play.kakao.com
 .ayehxorfaiqry.com
 .ayelpacle.com
 .ayga.xyz
+.ayiztaefkfzs.com
 .aykqyjzbkkkra.top
 .aymcsx.ru
 .aymijlwl.com
@@ -29949,6 +29950,7 @@ play.kakao.com
 .bhcumsc.com
 .bhddsiuo.com
 .bhduan.xyz
+.bhegilut.com
 .bhfdgdounv.xyz
 .bhhzlax.xyz
 .bhiagi.xyz
@@ -39328,6 +39330,7 @@ play.kakao.com
 .d3dpet1g0ty5ed.cloudfront.net
 .d3dq1nh1l1pzqy.cloudfront.net
 .d3ec0pbimicc4r.cloudfront.net
+.d3edbb478c.com
 .d3efeah7vk80fy.cloudfront.net
 .d3ej838ds58re9.cloudfront.net
 .d3ejxyz09ctey7.cloudfront.net
@@ -39784,6 +39787,7 @@ play.kakao.com
 .dana8herb.com
 .danaineuveas.com
 .danakilaskarel.com
+.danatrak.com
 .danbo.org
 .dancaa.com
 .dancefordamazed.com
@@ -40265,6 +40269,7 @@ play.kakao.com
 .ddedfearingl.com
 .ddfcash.com
 .ddgjjj.com
+.ddhjabqe.icu
 .ddhjxakewpp.com
 .ddielv.cn
 .ddjagedfbifdfejagaca.world
@@ -43585,6 +43590,7 @@ play.kakao.com
 .dzr4v2ld8fze2.cloudfront.net
 .dzrs3yuexz.com
 .dzs55b7slwyx.cloudfront.net
+.dzsopgxm.com
 .dzsorpf.com
 .dzu5p9pd5q24b.cloudfront.net
 .dzubavstal.com
@@ -44563,6 +44569,7 @@ play.kakao.com
 .eitful.com
 .eitgun.com
 .eitics.com
+.eitilbyr.com
 .eitish.com
 .eitka.com
 .eitney.com
@@ -49968,7 +49975,6 @@ play.kakao.com
 .galamis.com
 .galanasorra.com
 .galaxiemedia.fr
-.galaxien.com
 .galaxydiminution.com
 .galaxymeet.ru
 .galaxypush.com
@@ -51680,6 +51686,7 @@ play.kakao.com
 .go.data1rtb.com
 .go.dhs.gov
 .go.eu.sparkpostmail1.com
+.go.first.org
 .go.icann.org
 .go.jetswap.com
 .go.media-x.ru
@@ -52210,6 +52217,7 @@ play.kakao.com
 .grajoazy.com
 .grakroup.com
 .graksaid.net
+.grallichalvas.com
 .gralliczenana.top
 .gralneurooly.com
 .grammarselfish.com
@@ -59352,6 +59360,7 @@ play.kakao.com
 .jiayuwl.com
 .jiazhua.com
 .jibaeolia.com
+.jibbahazara.top
 .jibbarewarms.com
 .jicamadoless.com
 .jicamasosteal.shop
@@ -59632,6 +59641,7 @@ play.kakao.com
 .jobeyeball.com
 .jobfilletfortitude.com
 .jobfreelance.fr
+.jobfukectivetr.com
 .joblessdrum.com
 .joblouder.com
 .jobmkewrymmvb.top
@@ -59723,6 +59733,7 @@ play.kakao.com
 .jopbvpsglwfm.com
 .jopd.ru
 .joplopr.cn
+.joptodsougegauw.com
 .joqowqyaarewj.top
 .jor-el.net
 .jorbfstarn.com
@@ -62693,6 +62704,7 @@ play.kakao.com
 .lbbanners.com
 .lbbxuenncq.com
 .lbfuvlyp.icu
+.lbfwxr.icu
 .lbjdbym.xyz
 .lbjekygz.icu
 .lbjxsort.xyz
@@ -64236,6 +64248,7 @@ play.kakao.com
 .locandalorries.com
 .locatchi.xyz
 .locatedstructure.com
+.locatejest.com
 .locatioiranic.digital
 .location.cyou
 .locationaircondition.com
@@ -65442,6 +65455,7 @@ play.kakao.com
 .lzp.plus
 .lzqjqvjkqkkkj.top
 .lzqkofsfbympt.com
+.lzqmjakwlllvk.top
 .lzrikate.com
 .lzthjd.cn
 .lzukrobrykk.com
@@ -65851,6 +65865,7 @@ play.kakao.com
 .majesticsecondary.com
 .majestyafterwardprudent.com
 .majestybrightennext.com
+.majile.vip
 .majime-site-rk.com
 .majomalonic.com
 .major-inpp-code.com
@@ -72421,6 +72436,7 @@ play.kakao.com
 .nyfoknamlrqxc.com
 .nyfstb.xyz
 .nygwcwsvnu.com
+.nyhdv.com
 .nyhgjmlg.xyz
 .nyhgvn.xyz
 .nyhpyq.com
@@ -73452,6 +73468,7 @@ play.kakao.com
 .olivednitrils.com
 .olivefail.com
 .olivefamine.com
+.oliver.pub
 .olizyr.com
 .olkhtegk.com
 .olkoins.com
@@ -73570,6 +73587,7 @@ play.kakao.com
 .omshedinjaor.com
 .omvcilk.com
 .omvenusaurchan.com
+.omwovzodgck.com
 .omxwt.cn
 .omynews.net
 .omzoroarkan.com
@@ -74400,6 +74418,7 @@ play.kakao.com
 .osdata.solutions
 .osdmuxzag.com
 .osdoshcwyaev.xyz
+.osdxx.com
 .oseculretabout.com
 .osef.co.il
 .osekwacuoxt.xyz
@@ -80435,6 +80454,7 @@ play.kakao.com
 .pxdghffadlhpbw.com
 .pxf.io
 .pxfindone.com
+.pxhuiben.com
 .pxi.pub
 .pxksnymto.ru
 .pxl-mailtracker.com
@@ -81907,6 +81927,7 @@ play.kakao.com
 .rankstarvation.com
 .ranksubquery.com
 .rankyou.com
+.ranmaotome.com
 .ranmistaken.com
 .ranopportunit.info
 .ransomsection.com
@@ -84995,6 +85016,7 @@ play.kakao.com
 .ruyqiolnz.cyou
 .ruzotchaufu.xyz
 .rv-syzfedv.rocks
+.rvardsusyseinp.org
 .rvbiocn.cn
 .rvddfchkj.xyz
 .rvetreyu.net
@@ -85244,6 +85266,7 @@ play.kakao.com
 .s7target.ru
 .s7ven.com
 .s811.ketv.com
+.s83.fun
 .s83ovp6qyhco.com
 .s99i.org
 .s9kkremkr0.com
@@ -91565,6 +91588,7 @@ play.kakao.com
 .stream-all.com
 .stream-direct.co
 .stream-home.ru
+.stream.datago.ru
 .stream.spongead.com
 .streamadvancedheavilythe-file.top
 .streamate.com
@@ -95519,6 +95543,7 @@ play.kakao.com
 .tmz.vo.llnwd.net
 .tmztcfp.com
 .tn.5.p2l.info
+.tn.porngo.xxx
 .tn05.ru
 .tnaczwecikco.online
 .tnalzli.top

@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30839
+# 规则统计: 30838
 
 adobeereg.com
 angle.com.tw
@@ -24838,7 +24838,6 @@ self.events.data.microsoft.com
 .zencdn.net
 .zencoder.com
 .zendesk.com
-.zenlesszonezero.com
 .zenodo.org
 .zeplerinstitute.ac.uk
 .zeplin.dev

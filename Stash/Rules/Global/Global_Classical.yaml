@@ -1,5 +1,5 @@
 # 规则名称: Global_Classical
-# 规则统计: 30993
+# 规则统计: 30992
 
 payload:
   - DOMAIN,adobeereg.com
@@ -24839,7 +24839,6 @@ payload:
   - DOMAIN-SUFFIX,zencdn.net
   - DOMAIN-SUFFIX,zencoder.com
   - DOMAIN-SUFFIX,zendesk.com
-  - DOMAIN-SUFFIX,zenlesszonezero.com
   - DOMAIN-SUFFIX,zenodo.org
   - DOMAIN-SUFFIX,zeplerinstitute.ac.uk
   - DOMAIN-SUFFIX,zeplin.dev
