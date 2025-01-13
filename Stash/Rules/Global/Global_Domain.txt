@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30838
+# 规则统计: 30848
 
 adobeereg.com
 angle.com.tw
@@ -11071,7 +11071,6 @@ self.events.data.microsoft.com
 .hsdc.ac.uk
 .hsdp.ac.uk
 .hsex.icu
-.hsex.men
 .hsex.tv
 .hsfacebook.com
 .hshsxkj.com
@@ -14800,7 +14799,6 @@ self.events.data.microsoft.com
 .minstercentre.ac.uk
 .minuporno.com
 .miohentai.com
-.miraheze.org
 .mirailab.tech
 .mirandanet.ac.uk
 .mirror.ac.uk
@@ -14936,7 +14934,6 @@ self.events.data.microsoft.com
 .momomall.com.tw
 .momon-ga.com
 .momoniji.com
-.momoshop.com.tw
 .momotk.com
 .moms-sex-videos.com
 .momsbangteens.com
@@ -21490,10 +21487,8 @@ self.events.data.microsoft.com
 .tiipple.ac.uk
 .tik-tokapi.com
 .tiktokcdn-eu.com
-.tiktokcdn-us.com
 .tiktokcdn.com
 .tiktokv.eu
-.tiktokv.us
 .tiktokw.eu
 .tiktokw.us
 .tilehill.ac.uk
@@ -24973,6 +24968,7 @@ self.events.data.microsoft.com
 .1mobile.com
 .1mobile.tw
 .1password.com
+.1point3acres.com
 .1pondo.tv
 .2-hand.info
 .2000fun.com
@@ -25330,6 +25326,7 @@ self.events.data.microsoft.com
 .atlaspost.com
 .atnext.com
 .att.com
+.audacy.com
 .audionow.com
 .autodraw.com
 .av-e-body.com
@@ -25747,6 +25744,7 @@ self.events.data.microsoft.com
 .cdp1998.org
 .cdp2006.org
 .cdpeu.org
+.cdpuk.co.uk
 .cdpusa.org
 .cdpweb.org
 .cdpwu.org
@@ -26134,6 +26132,7 @@ self.events.data.microsoft.com
 .ddhw.info
 .dditscdn.com
 .de-sci.org
+.deadhouse.org
 .deadline.com
 .deaftone.com
 .debug.com
@@ -26622,6 +26621,7 @@ self.events.data.microsoft.com
 .firstfivefollowers.com
 .firstpost.com
 .firstrade.com
+.fish.audio
 .fizzik.com
 .flagsonline.it
 .flecheinthepeche.fr
@@ -27266,6 +27266,7 @@ self.events.data.microsoft.com
 .hrtsea.com
 .hrw.org
 .hrweb.org
+.hsex.men
 .hsjp.net
 .hsselite.com
 .hst.net.tw
@@ -27437,6 +27438,7 @@ self.events.data.microsoft.com
 .info-graf.fr
 .informer.com
 .ingress.com
+.inherit.live
 .initiativesforchina.org
 .inkbunny.net
 .inkui.com
@@ -28108,6 +28110,7 @@ self.events.data.microsoft.com
 .minzhuhua.net
 .minzhuzhanxian.com
 .minzhuzhongguo.org
+.miraheze.org
 .miroguide.com
 .mirrorbooks.com
 .mirrormedia.mg
@@ -28151,6 +28154,7 @@ self.events.data.microsoft.com
 .mojim.com
 .mol.gov.tw
 .molihua.org
+.momoshop.com.tw
 .monar.ch
 .mondex.org
 .money-link.com.tw
@@ -28957,6 +28961,7 @@ self.events.data.microsoft.com
 .radicalparty.org
 .radiko.jp
 .radio-canada.ca
+.radio-en-ligne.fr
 .radio.garden
 .radioaustralia.net.au
 .radiohilight.net
@@ -29329,6 +29334,7 @@ self.events.data.microsoft.com
 .slandr.net
 .slaytizle.com
 .sleazydream.com
+.sleazyfork.org
 .slheng.com
 .slickvpn.com
 .slides.new
@@ -29432,6 +29438,7 @@ self.events.data.microsoft.com
 .spike.com
 .spotflux.com
 .spreadshirt.es
+.spreaker.com
 .spring-plus.net
 .spring.io
 .spring.net
@@ -29838,7 +29845,9 @@ self.events.data.microsoft.com
 .ticket.com.tw
 .tigervpn.com
 .tiktok.com
+.tiktokcdn-us.com
 .tiktokv.com
+.tiktokv.us
 .tiltbrush.com
 .timdir.com
 .time.com
@@ -30763,6 +30772,7 @@ self.events.data.microsoft.com
 .yyjlymb.xyz
 .yysub.net
 .yzzk.com
+.z-lib.io
 .z-lib.org
 .zacebook.com
 .zalmos.com
