@@ -1,5 +1,5 @@
 # 规则名称: HBOUSA
-# 规则统计: 11
+# 规则统计: 12
 
 HOST,telegraph.prd.api.discomax.com,HBOUSA
 HOST,wmff.warnermediacdn.com,HBOUSA
@@ -10,5 +10,6 @@ HOST-SUFFIX,hbomax.com,HBOUSA
 HOST-SUFFIX,hbomaxcdn.com,HBOUSA
 HOST-SUFFIX,hbomaxdash.s.llnwi.net,HBOUSA
 HOST-SUFFIX,hbonow.com,HBOUSA
+HOST-SUFFIX,max.com,HBOUSA
 HOST-SUFFIX,maxgo.com,HBOUSA
 USER-AGENT,HBOMAX*,HBOUSA

@@ -1,5 +1,5 @@
 # 规则名称: HBOUSA
-# 规则统计: 10
+# 规则统计: 11
 
 DOMAIN,wmff.warnermediacdn.com
 DOMAIN-SUFFIX,cinemax.com
@@ -9,5 +9,6 @@ DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
 DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,maxgo.com
 USER-AGENT,HBOMAX*

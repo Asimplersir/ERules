@@ -1,5 +1,5 @@
 # 规则名称: HBOUSA_No_Resolve
-# 规则统计: 11
+# 规则统计: 12
 
 payload:
   - DOMAIN,wmff.warnermediacdn.com
@@ -10,5 +10,6 @@ payload:
   - DOMAIN-SUFFIX,hbomaxcdn.com
   - DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
   - DOMAIN-SUFFIX,hbonow.com
+  - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,maxgo.com
   - PROCESS-NAME,com.hbo.hbonow
