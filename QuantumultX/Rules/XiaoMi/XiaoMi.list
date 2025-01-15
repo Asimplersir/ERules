@@ -1,5 +1,5 @@
 # 规则名称: XiaoMi
-# 规则统计: 140
+# 规则统计: 141
 
 HOST-SUFFIX,408399.com,XiaoMi
 HOST-SUFFIX,408399.net,XiaoMi
@@ -72,6 +72,7 @@ HOST-SUFFIX,milliant.com,XiaoMi
 HOST-SUFFIX,mioffice.cn,XiaoMi
 HOST-SUFFIX,mios.cn,XiaoMi
 HOST-SUFFIX,mios.com.cn,XiaoMi
+HOST-SUFFIX,miot-spec.org,XiaoMi
 HOST-SUFFIX,mipay.com,XiaoMi
 HOST-SUFFIX,mipush.com,XiaoMi
 HOST-SUFFIX,miredian.com,XiaoMi
