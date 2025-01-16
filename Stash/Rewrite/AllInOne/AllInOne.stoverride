@@ -1,8 +1,8 @@
 # 规则名称: AllInOne.stoverride
-# 规则统计: 1673
+# 规则统计: 1674
 
 name: AllInOne
-desc: 最后更新时间 2025-01-10 02:16:49
+desc: 最后更新时间 2025-01-17 02:15:59
 rules:
   - DOMAIN,appcloud.zhihu.com,REJECT
   - DOMAIN,appcloud2.in.zhihu.com,REJECT
@@ -958,6 +958,7 @@ http:
     - "*.yuanfudao.com"
     - "*.yuxueyuan.cn"
     - "*.zdmimg.com"
+    - "*.zongheng.com"
     - "*api.oray.net"
     - "*cupid.iqiyi.com"
     - "101.201.175.228"
