@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Domain
-# 规则统计: 5952
+# 规则统计: 5958
 
 .000webhost.com
 .030buy.com
@@ -142,6 +142,7 @@
 .abc.xyz
 .abchinese.com
 .abclite.net
+.abebooks.co.uk
 .abebooks.com
 .ablwang.com
 .about.me
@@ -774,6 +775,7 @@
 .cari.com.my
 .caribbeancom.com
 .carmotorshow.com
+.carousell.com.hk
 .carrd.co
 .carryzhou.com
 .cartoonmovement.com
@@ -854,6 +856,7 @@
 .changp.com
 .changsa.net
 .channelnewsasia.com
+.chanworld.org
 .chaoex.com
 .chapm25.com
 .chat.openai.com
@@ -1082,6 +1085,7 @@
 .coolloud.org.tw
 .coolncute.com
 .coolstuffinc.com
+.copilot.microsoft.com
 .corumcollege.com
 .cos-moe.com
 .cosplayjav.pl
@@ -1198,6 +1202,7 @@
 .darpa.mil
 .darrenliuwei.com
 .dartlang.org
+.dashlane.com
 .dastrassi.org
 .data-vocabulary.org
 .data.flurry.com
@@ -3907,6 +3912,7 @@
 .polymer-project.org
 .polymerhk.com
 .poolin.com
+.popai.pro
 .popo.tw
 .popvote.hk
 .popxi.click
@@ -5400,6 +5406,7 @@
 .vox-cdn.com
 .voxer.com
 .voy.com
+.vpl.bibliocommons.com
 .vpn.ac
 .vpn4all.com
 .vpnaccount.org
@@ -5945,7 +5952,6 @@ api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
 cloud.oracle.com
-copilot.microsoft.com
 cvws.icloud-content.com
 developer.apple.com
 location.microsoft.com

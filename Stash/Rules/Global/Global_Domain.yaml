@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30849
+# 规则统计: 30855
 
 payload:
   - 'adobeereg.com'
@@ -5671,7 +5671,6 @@ payload:
   - '+.coova.net'
   - '+.coova.org'
   - '+.copac.ac.uk'
-  - '+.copilot.microsoft.com'
   - '+.copim.ac.uk'
   - '+.copior.ac.uk'
   - '+.copro.pw'
@@ -25069,6 +25068,7 @@ payload:
   - '+.abc.xyz'
   - '+.abchinese.com'
   - '+.abclite.net'
+  - '+.abebooks.co.uk'
   - '+.abebooks.com'
   - '+.ablwang.com'
   - '+.about.me'
@@ -25694,6 +25694,7 @@ payload:
   - '+.cari.com.my'
   - '+.caribbeancom.com'
   - '+.carmotorshow.com'
+  - '+.carousell.com.hk'
   - '+.carrd.co'
   - '+.carryzhou.com'
   - '+.cartoonmovement.com'
@@ -25773,6 +25774,7 @@ payload:
   - '+.changp.com'
   - '+.changsa.net'
   - '+.channelnewsasia.com'
+  - '+.chanworld.org'
   - '+.chaoex.com'
   - '+.chapm25.com'
   - '+.chatnook.com'
@@ -25998,6 +26000,7 @@ payload:
   - '+.coolloud.org.tw'
   - '+.coolncute.com'
   - '+.coolstuffinc.com'
+  - '+.copilot.microsoft.com'
   - '+.corumcollege.com'
   - '+.cos-moe.com'
   - '+.cosplayjav.pl'
@@ -26114,6 +26117,7 @@ payload:
   - '+.darpa.mil'
   - '+.darrenliuwei.com'
   - '+.dartlang.org'
+  - '+.dashlane.com'
   - '+.dastrassi.org'
   - '+.data-vocabulary.org'
   - '+.data.flurry.com'
@@ -28820,6 +28824,7 @@ payload:
   - '+.polymer-project.org'
   - '+.polymerhk.com'
   - '+.poolin.com'
+  - '+.popai.pro'
   - '+.popo.tw'
   - '+.popvote.hk'
   - '+.popxi.click'
@@ -30312,6 +30317,7 @@ payload:
   - '+.vox-cdn.com'
   - '+.voxer.com'
   - '+.voy.com'
+  - '+.vpl.bibliocommons.com'
   - '+.vpn.ac'
   - '+.vpn4all.com'
   - '+.vpnaccount.org'
