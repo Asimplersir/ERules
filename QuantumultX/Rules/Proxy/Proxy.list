@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6543
+# 规则统计: 6544
 
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
@@ -2195,6 +2195,7 @@ HOST-SUFFIX,gongwt.com,Proxy
 HOST-SUFFIX,goo.gl,Proxy
 HOST-SUFFIX,goo.gle,Proxy
 HOST-SUFFIX,goo.ne.jp,Proxy
+HOST-SUFFIX,good.news,Proxy
 HOST-SUFFIX,gooday.xyz,Proxy
 HOST-SUFFIX,goodhope.school,Proxy
 HOST-SUFFIX,goodreaders.com,Proxy

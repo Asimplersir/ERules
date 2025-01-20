@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30855
+# 规则统计: 30856
 
 payload:
   - 'adobeereg.com'
@@ -26969,6 +26969,7 @@ payload:
   - '+.goo.gl'
   - '+.goo.gle'
   - '+.goo.ne.jp'
+  - '+.good.news'
   - '+.gooday.xyz'
   - '+.goodhope.school'
   - '+.goodreaders.com'

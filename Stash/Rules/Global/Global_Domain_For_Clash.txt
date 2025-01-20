@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain_For_Clash
-# 规则统计: 30854
+# 规则统计: 30855
 
 adobeereg.com
 angle.com.tw
@@ -26968,6 +26968,7 @@ self.events.data.microsoft.com
 +.goo.gl
 +.goo.gle
 +.goo.ne.jp
++.good.news
 +.gooday.xyz
 +.goodhope.school
 +.goodreaders.com

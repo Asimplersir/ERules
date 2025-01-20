@@ -12,18 +12,18 @@ Proxy规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-01-20 02:11:50
+最后更新时间：2025-01-21 02:12:57
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 19  | 
 | DOMAIN-KEYWORD | 26  | 
-| DOMAIN-SUFFIX | 6393  | 
+| DOMAIN-SUFFIX | 6394  | 
 | IP-CIDR | 93  | 
 | IP-CIDR6 | 4  | 
 | USER-AGENT(Egern不支持) | 8  | 
-| TOTAL(仅供参考) | 6543  | 
+| TOTAL(仅供参考) | 6544  | 
 
 
 ## Egern 

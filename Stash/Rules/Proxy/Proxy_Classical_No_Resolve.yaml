@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Classical_No_Resolve
-# 规则统计: 6082
+# 规则统计: 6083
 
 payload:
   - DOMAIN,api.waqi.info
@@ -2067,6 +2067,7 @@ payload:
   - DOMAIN-SUFFIX,goo.gl
   - DOMAIN-SUFFIX,goo.gle
   - DOMAIN-SUFFIX,goo.ne.jp
+  - DOMAIN-SUFFIX,good.news
   - DOMAIN-SUFFIX,gooday.xyz
   - DOMAIN-SUFFIX,goodhope.school
   - DOMAIN-SUFFIX,goodreaders.com

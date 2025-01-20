@@ -1,5 +1,5 @@
 # 规则名称: Global_Classical_No_Resolve
-# 规则统计: 31008
+# 规则统计: 31009
 
 payload:
   - DOMAIN,adobeereg.com
@@ -26969,6 +26969,7 @@ payload:
   - DOMAIN-SUFFIX,goo.gl
   - DOMAIN-SUFFIX,goo.gle
   - DOMAIN-SUFFIX,goo.ne.jp
+  - DOMAIN-SUFFIX,good.news
   - DOMAIN-SUFFIX,gooday.xyz
   - DOMAIN-SUFFIX,goodhope.school
   - DOMAIN-SUFFIX,goodreaders.com

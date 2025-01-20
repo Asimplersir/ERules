@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 31535
+# 规则统计: 31536
 
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -27128,6 +27128,7 @@ HOST-SUFFIX,gongwt.com,Global
 HOST-SUFFIX,goo.gl,Global
 HOST-SUFFIX,goo.gle,Global
 HOST-SUFFIX,goo.ne.jp,Global
+HOST-SUFFIX,good.news,Global
 HOST-SUFFIX,gooday.xyz,Global
 HOST-SUFFIX,goodhope.school,Global
 HOST-SUFFIX,goodreaders.com,Global
