@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker_No_Resolve
-# 规则统计: 265
+# 规则统计: 255
 
 payload:
   - DOMAIN,0123456789nonexistent.com
@@ -34,7 +34,6 @@ payload:
   - DOMAIN,ismaarino.com
   - DOMAIN,leet-tracker.moe
   - DOMAIN,martin-gebhardt.eu
-  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,open.acgtracker.com
   - DOMAIN,open.demonii.com
@@ -52,7 +51,7 @@ payload:
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta.me
   - DOMAIN,retracker.spark-rostov.ru
-  - DOMAIN,retracker.x2k.ru
+  - DOMAIN,rfc5746.mywaifu.best
   - DOMAIN,seeders-paradise.org
   - DOMAIN,servandroidkino.ru
   - DOMAIN,share.hkg-fansub.info
@@ -63,8 +62,6 @@ payload:
   - DOMAIN,taciturn-shadow.spb.ru
   - DOMAIN,tk.greedland.net
   - DOMAIN,torrent.tracker.durukanbal.com
-  - DOMAIN,torrentsmd.com
-  - DOMAIN,tr.abir.ga
   - DOMAIN,tr.burnabyhighstar.com
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,tr.zukizuki.org
@@ -80,7 +77,6 @@ payload:
   - DOMAIN,tracker.bz
   - DOMAIN,tracker.cloudit.top
   - DOMAIN,tracker.corpscorp.online
-  - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker.darkness.services
   - DOMAIN,tracker.deadorbit.nl
   - DOMAIN,tracker.dler.com
@@ -115,7 +111,6 @@ payload:
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,tracker.tryhackx.org
-  - DOMAIN,tracker.vanitycore.co
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.xiaoduola.xyz
   - DOMAIN,tracker.yemekyedim.com
@@ -123,15 +118,13 @@ payload:
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.myporn.club
   - DOMAIN,tracker2.dler.org
-  - DOMAIN,tracker2.itzmx.com
-  - DOMAIN,tracker3.itzmx.com
-  - DOMAIN,tracker4.itzmx.com
   - DOMAIN,tracker810.xyz
   - DOMAIN,ttk2.nbaonlineservice.com
   - DOMAIN,u4.trakx.crim.ist
   - DOMAIN,u6.trakx.crim.ist
   - DOMAIN,udp.tracker.projectk.org
   - DOMAIN,wepzone.net
+  - DOMAIN,www.all4nothin.net
   - DOMAIN,www.genesis-sp.org
   - DOMAIN,www.torrent.eu.org
   - DOMAIN,www.torrentsnipe.info
@@ -263,6 +256,3 @@ payload:
   - DOMAIN-KEYWORD,chdbits
   - DOMAIN-KEYWORD,m-team
   - DOMAIN-KEYWORD,torrent
-  - IP-CIDR,207.241.226.111/32,no-resolve
-  - IP-CIDR,207.241.231.226/32,no-resolve
-  - IP-CIDR,52.58.128.163/32,no-resolve

@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Domain_For_Clash
-# 规则统计: 5959
+# 规则统计: 6000
 
 api.waqi.info
 aqi.aqicn.org
@@ -114,6 +114,7 @@ voice.telephony.goog
 +.66.ca
 +.666kb.com
 +.6do.news
++.6do.world
 +.6park.com
 +.6parkbbs.com
 +.6parker.com
@@ -208,10 +209,12 @@ voice.telephony.goog
 +.ahcdn.com
 +.ai-kan.net
 +.ai-wen.net
++.aiosearch.com
 +.aiph.net
 +.airasia.com
 +.airconsole.com
 +.aircrack-ng.org
++.airitilibrary.com
 +.airtable.com
 +.airvpn.org
 +.aisex.com
@@ -294,6 +297,7 @@ voice.telephony.goog
 +.andfaraway.net
 +.android-x86.org
 +.android.com
++.androidapksfree.com
 +.androidify.com
 +.androidplus.co
 +.androidtv.com
@@ -401,6 +405,7 @@ voice.telephony.goog
 +.asiaone.com
 +.asiatgp.com
 +.asiatoday.us
++.ask.com
 +.askstudent.com
 +.askynz.net
 +.aspi.org.au
@@ -451,6 +456,7 @@ voice.telephony.goog
 +.azureedge.net
 +.azurewebsites.net
 +.b-ok.cc
++.b.hatena.ne.jp
 +.b0ne.com
 +.baby-kingdom.com
 +.babylonbee.com
@@ -537,6 +543,7 @@ voice.telephony.goog
 +.bestgore.com
 +.bestvpn.com
 +.bestvpnanalysis.com
++.bestvpnforchina.net
 +.bestvpnserver.com
 +.bestvpnservice.com
 +.bestvpnusa.com
@@ -653,6 +660,7 @@ voice.telephony.goog
 +.bookepub.com
 +.books.com.tw
 +.booktopia.com.au
++.bookwalker.com.tw
 +.boomssr.com
 +.borgenmagazine.com
 +.bot.nu
@@ -804,6 +812,7 @@ voice.telephony.goog
 +.cathvoice.org.tw
 +.cato.org
 +.cattt.com
++.caus.com
 +.cbc.ca
 +.cbsnews.com
 +.cbtc.org.hk
@@ -869,7 +878,9 @@ voice.telephony.goog
 +.channelnewsasia.com
 +.chanworld.org
 +.chaoex.com
++.chaos.social
 +.chapm25.com
++.character.ai
 +.chat.openai.com
 +.chatnook.com
 +.chaturbate.com
@@ -901,6 +912,7 @@ voice.telephony.goog
 +.chinachannel.hk
 +.chinacitynews.be
 +.chinacomments.org
++.chinademocrats.org
 +.chinadialogue.net
 +.chinadigitaltimes.net
 +.chinaelections.org
@@ -1056,6 +1068,7 @@ voice.telephony.goog
 +.codeshare.io
 +.codeskulptor.org
 +.coin2co.in
++.coinbase.com
 +.coinbene.com
 +.coinegg.com
 +.coinex.com
@@ -1341,6 +1354,7 @@ voice.telephony.goog
 +.donmai.us
 +.dontfilter.us
 +.dontmovetochina.com
++.doourbest.org
 +.dorjeshugden.com
 +.dotplane.com
 +.dotsub.com
@@ -1741,6 +1755,7 @@ voice.telephony.goog
 +.flitto.com
 +.flnet.org
 +.flog.tw
++.flowhongkong.net
 +.flyvpn.com
 +.flyzy2005.com
 +.flzbcdn.xyz
@@ -1772,6 +1787,7 @@ voice.telephony.goog
 +.fpmtmexico.org
 +.fqok.org
 +.fqrouter.com
++.frank2019.me
 +.franklc.com
 +.freakshare.com
 +.free-gate.org
@@ -1861,6 +1877,7 @@ voice.telephony.goog
 +.fuckgfw233.org
 +.fulione.com
 +.fullerconsideration.com
++.fullservicegame.com
 +.fulue.com
 +.funf.tw
 +.funkyimg.com
@@ -2005,6 +2022,7 @@ voice.telephony.goog
 +.gitlab.io
 +.gizlen.net
 +.gjczz.com
++.glarity.app
 +.glass8.eu
 +.globaljihad.net
 +.globalmediaoutreach.com
@@ -2069,6 +2087,7 @@ voice.telephony.goog
 +.good.news
 +.gooday.xyz
 +.goodhope.school
++.goodnewsnetwork.org
 +.goodreaders.com
 +.goodreads.com
 +.goodtv.com.tw
@@ -2659,6 +2678,7 @@ voice.telephony.goog
 +.jandyx.com
 +.janwongphoto.com
 +.japan-whores.com
++.japanhdv.com
 +.japantimes.co.jp
 +.jav.com
 +.jav101.com
@@ -2707,6 +2727,7 @@ voice.telephony.goog
 +.jingsim.org
 +.jinhai.de
 +.jinpianwang.com
++.jinrizhiyi.news
 +.jinroukong.com
 +.jintian.net
 +.jinx.com
@@ -2847,6 +2868,7 @@ voice.telephony.goog
 +.ksnews.com.tw
 +.kspcoin.com
 +.ktzhk.com
++.kuaichedao.co
 +.kucoin.com
 +.kui.name
 +.kukuku.uk
@@ -2938,6 +2960,7 @@ voice.telephony.goog
 +.lighten.org.tw
 +.lighti.me
 +.lightyearvpn.com
++.lih.kg
 +.lihkg.com
 +.like.com
 +.limiao.net
@@ -3131,6 +3154,7 @@ voice.telephony.goog
 +.mega.co.nz
 +.mega.io
 +.mega.nz
++.megalodon.jp
 +.megaproxy.com
 +.megarotic.com
 +.megaupload.com
@@ -3182,6 +3206,7 @@ voice.telephony.goog
 +.mihk.hk
 +.mihr.com
 +.mihua.org
++.mikanani.me
 +.mikesoltys.com
 +.mikocon.com
 +.milph.net
@@ -3262,6 +3287,7 @@ voice.telephony.goog
 +.monar.ch
 +.mondex.org
 +.money-link.com.tw
++.moneydj.com
 +.moneyhome.biz
 +.monica.im
 +.monitorchina.org
@@ -3544,6 +3570,7 @@ voice.telephony.goog
 +.nordstromimage.com
 +.nordstromrack.com
 +.nordvpn.com
++.nos.nl
 +.notepad-plus-plus.org
 +.notion.so
 +.nottinghampost.com
@@ -3688,6 +3715,7 @@ voice.telephony.goog
 +.oopsforum.com
 +.ooyala.com
 +.open.com.hk
++.open.firstory.me
 +.openallweb.com
 +.opendemocracy.net
 +.opendn.xyz
@@ -3790,6 +3818,7 @@ voice.telephony.goog
 +.pastie.org
 +.pathtosharepoint.com
 +.patreon.com
++.patreonusercontent.com
 +.pawoo.net
 +.paxful.com
 +.pbs.org
@@ -3887,6 +3916,7 @@ voice.telephony.goog
 +.pk.com
 +.pki.goog
 +.placemix.com
++.play-asia.com
 +.playartifact.com
 +.playboy.com
 +.playboyplus.com
@@ -3948,6 +3978,7 @@ voice.telephony.goog
 +.powerpointninja.com
 +.pp.ru
 +.pp.ua
++.ppy.sh
 +.prayforchina.net
 +.premeforwindows7.com
 +.premproxy.com
@@ -4392,6 +4423,7 @@ voice.telephony.goog
 +.simplecd.org
 +.simplenote.com
 +.simpleproductivityblog.com
++.simpleswap.io
 +.sina.com.hk
 +.sina.com.tw
 +.sinchew.com.my
@@ -4459,6 +4491,7 @@ voice.telephony.goog
 +.smh.com.au
 +.smhric.org
 +.smith.edu
++.smn.news
 +.smyxy.org
 +.snapchat.com
 +.snapseed.com
@@ -4508,6 +4541,7 @@ voice.telephony.goog
 +.sorazone.net
 +.sorting-algorithms.com
 +.sos.org
++.sosad.fun
 +.sosreader.com
 +.sostibet.org
 +.sou-tong.org
@@ -4524,6 +4558,7 @@ voice.telephony.goog
 +.sourcewadio.com
 +.south-plus.net
 +.south-plus.org
++.southmongolia.org
 +.southnews.com.tw
 +.sowers.org.hk
 +.sowiki.net
@@ -4532,8 +4567,10 @@ voice.telephony.goog
 +.spankbang.com
 +.spankingtube.com
 +.spankwire.com
++.spatial.io
 +.spb.com
 +.speakerdeck.com
++.speedcat.me
 +.speedify.com
 +.speedsmart.net
 +.spem.at
@@ -4820,6 +4857,7 @@ voice.telephony.goog
 +.thegioitinhoc.vn
 +.thegly.com
 +.theguardian.com
++.thehindu.com
 +.thehots.info
 +.thehousenews.com
 +.thehun.net
@@ -4843,6 +4881,7 @@ voice.telephony.goog
 +.theverge.com
 +.thevivekspot.com
 +.thewgo.org
++.thewirechina.com
 +.theync.com
 +.thinkgeek.com
 +.thinkingtaiwan.com
@@ -5294,6 +5333,7 @@ voice.telephony.goog
 +.uscnpm.org
 +.usembassy.gov
 +.userapi.nytlog.com
++.usercontent.goog
 +.usertrust.com
 +.usfk.mil
 +.usgs.gov
@@ -5700,6 +5740,7 @@ voice.telephony.goog
 +.x1949x.com
 +.x24hr.com
 +.x365x.com
++.x3guide.com
 +.xanga.com
 +.xbabe.com
 +.xbookcn.com
