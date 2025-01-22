@@ -1,5 +1,5 @@
 # 规则名称: Advertising_Domain
-# 规则统计: 156728
+# 规则统计: 156754
 
 03.lzzncm.com
 04.lzzncm.com
@@ -13102,7 +13102,6 @@ servedby.yell.com
 server.freegamesall.com
 server1.extra-web.cz
 server140.com
-serveraddr.service.kugou.com
 serverflox.online
 services.zam.com
 seskeu3zk7.com
@@ -16490,6 +16489,8 @@ play.kakao.com
 .01045395.xyz
 .011211.cn
 .012024jhvjhkozekl.space
+.01210sop.xyz
+.01211sop.xyz
 .01220b75a7.com
 .0123kjz.com
 .0127c96640.com
@@ -26068,6 +26069,7 @@ play.kakao.com
 .api.simpletra.com
 .api.sprig.com
 .api.subiz.com.vn
+.api.taggrs.io
 .api.telemetry.watchabc.go.com
 .api.tomi.ai
 .api.trueaudience.io
@@ -40320,6 +40322,7 @@ play.kakao.com
 .dcmn.io
 .dcnjc4.com
 .dcnytdpke.xyz
+.dco.coupang.com
 .dcommerc.cfd
 .dcovesaysh.xyz
 .dcqs4.com
@@ -49127,6 +49130,7 @@ play.kakao.com
 .fqfclmlo.xyz
 .fqfjmojnjslr.com
 .fqghykp.cn
+.fqhnnknhufocejx.com
 .fqirjff.com
 .fqkwn.com
 .fqla.top
@@ -53705,6 +53709,7 @@ play.kakao.com
 .hashvault.pro
 .hashzone.io
 .haslundalsted.dk
+.hasomsdcoojm.com
 .hasricewaterh.info
 .hassarexurbs.com
 .hasslepasta.com
@@ -56345,6 +56350,7 @@ play.kakao.com
 .icmserver.net
 .icnwkduxnwl.com
 .icoawhou.com
+.icokamio.top
 .iconatrocity.com
 .iconcardinal.com
 .iconcnd.net
@@ -59219,6 +59225,7 @@ play.kakao.com
 .jclrwjceymgec.com
 .jcluhz.xyz
 .jcndkorsj.com
+.jcokamia.top
 .jcosjpir.com
 .jcount.com
 .jcovfmnlolsdsaa.com
@@ -59355,6 +59362,7 @@ play.kakao.com
 .jeopardyselfservice.com
 .jeoway.com
 .jeperdee.net
+.jepsauveel.net
 .jeqjawqoeraab.top
 .jeqxuvv.icu
 .jerbwqcyrznrm.com
@@ -60652,6 +60660,7 @@ play.kakao.com
 .kaimaohong20.cn
 .kaipteet.com
 .kaisaimy.net
+.kaisauwoure.net
 .kaiseki-website.com
 .kaishepe.xyz
 .kaitakavixen.shop
@@ -60842,6 +60851,7 @@ play.kakao.com
 .kcieo.xyz
 .kclimid.top
 .kcnwe.xyz
+.kcokamid.top
 .kcolbda.com
 .kcqpvqr.cn
 .kctag.net
@@ -63985,6 +63995,7 @@ play.kakao.com
 .lipqkoxzy.com
 .lipsate.com
 .lipsn.ru
+.lipsoowesto.net
 .liqenoftcgfqw.com
 .liqikxqpx.com
 .liquidad.narrowcastmedia.com
@@ -68916,6 +68927,7 @@ play.kakao.com
 .mootingunwist.com
 .mootingureic.com
 .moovaush.com
+.moowhaufipt.net
 .mooxar.com
 .mopedisods.com
 .mopefrequent.com
@@ -72323,6 +72335,7 @@ play.kakao.com
 .nskwqto.com
 .nslokxweviwqbg.com
 .nsmartad.com
+.nsmbssogmssym.com
 .nsmpydfe.net
 .nsomedidm.xyz
 .nsomomo.com
@@ -75239,6 +75252,7 @@ play.kakao.com
 .oxtracking.com
 .oxtsale1.com
 .oxtuycevz.com
+.oxtzgomhodrz.top
 .oxu24.com
 .oxvbfpwwewu.com
 .oxvlxwz.xyz
@@ -75395,6 +75409,7 @@ play.kakao.com
 .pa.tns-ua.com
 .pa4ye.cyou
 .pa5ka.com
+.pa6.fun
 .paalp.fr
 .pabhaco.ru
 .pabidding.io
@@ -76988,6 +77003,7 @@ play.kakao.com
 .phmqqbm.com
 .phoackoangu.com
 .phoaglee.com
+.phoakeezeey.net
 .phoalard.net
 .phoalsie.net
 .phoampun.net
@@ -81030,6 +81046,7 @@ play.kakao.com
 .qheoy.cn
 .qhestrad.com
 .qhhyls.com
+.qhihoins.com
 .qhiqlwcwguv.com
 .qhjm600.com
 .qhlegkjlnmg.com
@@ -81382,6 +81399,7 @@ play.kakao.com
 .qsorirgzqw.com
 .qsoxiekkfjl.com
 .qsstats.com
+.qsvbi.space
 .qsyliey.top
 .qtaqlbt.ciofgnm.co
 .qtbb6.com
@@ -81847,6 +81865,7 @@ play.kakao.com
 .qzehwg.xyz
 .qzesmjv.com
 .qzetnversitym.com
+.qzfpnhkcrkowps.com
 .qziuwzn.cn
 .qzkjkiexmsyv.com
 .qzlog.com
@@ -87132,6 +87151,7 @@ play.kakao.com
 .server44.dubhosting.co.uk
 .server4ads.com
 .server821.com
+.serveraddr.service.kugou.com
 .serverbest.xyz
 .serverdownload.space
 .servereplacementcycle.com
@@ -90172,6 +90192,7 @@ play.kakao.com
 .spacash.com
 .space-link.de
 .space-pulsar.com
+.spacecatholicpalmful.com
 .spaceeditors.com
 .spacehits.net
 .spacelala.com
@@ -95098,6 +95119,7 @@ play.kakao.com
 .throwsceases.com
 .thrtle.com
 .thruksyq.com
+.thrumulr.com
 .thruport.com
 .thruss.com
 .thrustlumpypulse.com
@@ -100382,6 +100404,7 @@ play.kakao.com
 .uuysiaq.com
 .uuzsfpju.xyz
 .uuzwvqc.cn
+.uv4.fun
 .uvbyty.com
 .uvcourse.net
 .uvcwj.com
@@ -103073,6 +103096,7 @@ play.kakao.com
 .vtbfgnf00.fun
 .vtbrcixnca.com
 .vtcbanking6868.weebly.com
+.vtdgfisz.icu
 .vtdoska.ru
 .vtdpgbank.com
 .vteflygt.com
@@ -104172,6 +104196,7 @@ play.kakao.com
 .weedfowlsgram.com
 .weedieritched.shop
 .weednewspro.com
+.weegraphooph.net
 .weehauptoupt.com
 .weejaugest.net
 .week1time.com
@@ -108587,6 +108612,7 @@ play.kakao.com
 .yssryr.cn
 .ysuchtjhwasp.info
 .ysxt9.com
+.ysycqoluup.com
 .yszpegh.xyz
 .yt-adblocker.com
 .yt.5.p2l.info
