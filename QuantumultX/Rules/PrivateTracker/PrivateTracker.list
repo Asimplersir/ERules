@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 270
+# 规则统计: 269
 
 HOST,0123456789nonexistent.com,PrivateTracker
 HOST,0d.kebhana.mx,PrivateTracker
@@ -54,6 +54,7 @@ HOST,retracker.hotplug.ru,PrivateTracker
 HOST,retracker.lanta.me,PrivateTracker
 HOST,retracker.spark-rostov.ru,PrivateTracker
 HOST,retracker.x2k.ru,PrivateTracker
+HOST,rfc5746.mywaifu.best,PrivateTracker
 HOST,seeders-paradise.org,PrivateTracker
 HOST,servandroidkino.ru,PrivateTracker
 HOST,share.hkg-fansub.info,PrivateTracker
@@ -105,7 +106,6 @@ HOST,tracker.moxing.party,PrivateTracker
 HOST,tracker.mywaifu.best,PrivateTracker
 HOST,tracker.ololosh.space,PrivateTracker
 HOST,tracker.opentrackr.org,PrivateTracker
-HOST,tracker.openwebtorrent.com,PrivateTracker
 HOST,tracker.pmman.tech,PrivateTracker
 HOST,tracker.qu.ax,PrivateTracker
 HOST,tracker.renfei.net,PrivateTracker
@@ -125,7 +125,6 @@ HOST,tracker.xiaoduola.xyz,PrivateTracker
 HOST,tracker.yemekyedim.com,PrivateTracker
 HOST,tracker.yume-hatsuyuki.moe,PrivateTracker
 HOST,tracker1.520.jp,PrivateTracker
-HOST,tracker1.myporn.club,PrivateTracker
 HOST,tracker2.dler.org,PrivateTracker
 HOST,tracker2.itzmx.com,PrivateTracker
 HOST,tracker3.itzmx.com,PrivateTracker
