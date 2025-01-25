@@ -1,5 +1,5 @@
 # 规则名称: ChinaMaxNoIP_Domain
-# 规则统计: 96771
+# 规则统计: 96772
 
 .0.zone
 .00.net
@@ -80055,6 +80055,7 @@
 .volcenginedns.com
 .volcenginedns.net
 .volcenginepaas.com
+.volces.com
 .volcfake.com
 .volcfcdn.com
 .volcfcdnbyte.com
