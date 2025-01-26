@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30938
+# 规则统计: 30948
 
 adobeereg.com
 angle.com.tw
@@ -9922,6 +9922,7 @@ self.events.data.microsoft.com
 .googleplay.com
 .googleplex.com
 .googleplus.com
+.googlescholar.com
 .googlescholar.comusa
 .googlesile.com
 .googlesource.com
@@ -23574,7 +23575,6 @@ self.events.data.microsoft.com
 .wmcloud.org
 .wmcollege.ac.uk
 .wmcu.ac.uk
-.wmfusercontent.org
 .wmhea.ac.uk
 .wmin.ac.uk
 .wmsf.ac.uk
@@ -25622,6 +25622,7 @@ self.events.data.microsoft.com
 .btctrade.im
 .btdig.com
 .btdigg.org
+.btguard.com
 .btku.me
 .btku.org
 .btlibrary.me
@@ -26223,6 +26224,7 @@ self.events.data.microsoft.com
 .dlsite.com
 .dlsite.jp
 .dm530.net
+.dma.mil
 .dmc.nico
 .dmcdn.net
 .dmhy.org
@@ -30181,6 +30183,7 @@ self.events.data.microsoft.com
 .typora.io
 .u15.info
 .u9un.com
+.ua5v.com
 .ub0.cc
 .uberproxy.net
 .ublock.org
@@ -30207,6 +30210,8 @@ self.events.data.microsoft.com
 .uku.im
 .ulike.net
 .ulop.net
+.ultrasurf.us
+.ultravpn.com
 .ultravpn.fr
 .ultraxs.com
 .ulyssesapp.com
@@ -30265,6 +30270,7 @@ self.events.data.microsoft.com
 .usacn.com
 .usaip.eu
 .uscardforum.com
+.uscg.mil
 .uscnpm.org
 .usembassy.gov
 .usercontent.goog
@@ -30422,6 +30428,7 @@ self.events.data.microsoft.com
 .vpnpick.com
 .vpnpop.com
 .vpnpronet.com
+.vpnproxymaster.com
 .vpnreactor.com
 .vpnreviewz.com
 .vpnsecure.me
@@ -30612,6 +30619,7 @@ self.events.data.microsoft.com
 .wizcrafts.net
 .wjbk.org
 .wmflabs.org
+.wmfusercontent.org
 .wn.com
 .wnacg.com
 .wnacg.org
@@ -30787,6 +30795,7 @@ self.events.data.microsoft.com
 .yangjianli.com
 .yasni.co.uk
 .yastatic.net
+.yasukuni.or.jp
 .yayabay.com
 .ycombinator.com
 .ydy.com
@@ -30853,6 +30862,7 @@ self.events.data.microsoft.com
 .yuanzhengtang.org
 .yulghun.com
 .yunchao.net
+.yunomi.tokyo
 .yuvutu.com
 .yvesgeleyn.com
 .ywpw.com
